@@ -1,9 +1,7 @@
 <html>
-
 <head>
   <meta content="text/html; charset=UTF-8" http-equiv="content-type">
 </head>
-
 <body class="c21 doc-content">
   <p class="c15"><span class="c5">Python Developer</span></p>
   <p class="c11"><span class="c0">&#1052;&#1072;&#1090;&#1074;&#1077;&#1077;&#1074; &#1048;&#1083;&#1100;&#1103;</span></p>
@@ -15,5 +13,4 @@
   <p class="c7 c26"><span class="c0"></span></p>
   <p class="c15"><span class="c10">Django &nbsp;FastAPI &nbsp;PostgreSQL &nbsp;MongoDB &nbsp;Redis &nbsp;Docker &nbsp;Nginx</span></p>
 </body>
-
 </html>
